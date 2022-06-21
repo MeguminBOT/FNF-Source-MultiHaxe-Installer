@@ -1,11 +1,11 @@
 A script that allows you to install both Haxe 4.1.5 and 4.2.5 at the same time and swap between the versions in 1 second!
 Useful if you work with both Kade Source Code and Psych Source Code
 
-| [Download here](https://github.com/MeguminBOT/FNF-Source-MultiHaxe-Installer/releases/tag/V1.0.0) | [Gamebanana Page] | [Video: Not available yet] |
+| [Download here](https://github.com/MeguminBOT/FNF-Source-MultiHaxe-Installer/releases/tag/V1.0.0) | [Gamebanana Page](https://gamebanana.com/tools/9716) | [Video: Script in Action](https://youtu.be/mkXzcPHFKFw) |
 |--|--|--|
 
 # FNF-Source-MultiHaxe-Installer
-<img alt="" src="" width="360"/> <img alt="" src="" width="360"/> <img alt="" src="" width="360"/> 
+<img alt="github/funnyimagelol2.png" src="github/funnyimagelol2.png" width="360"/> <img alt="github/screen1.png" src="github/screen1.png" width="360"/> <img alt="github/screen2.png" src="github/screen2.png" width="360"/> 
 
 ### Table of Contents
   - [Introduction](#introduction)
